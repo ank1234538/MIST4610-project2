@@ -6,3 +6,16 @@ Group 6:
 3) Josh Tesar, [@joshtesar04](https://github.com/joshtesar04) 811846823
 ## Data Description
 The dataset used in this project was obtained from NYC Open Data and is titled Motor Vehicle Collisions. It is maintained by the City of New York and updated daily to reflect every reported crash across all five boroughs. Each entry represents a single motor vehicle collision and includes detailed information such as the date and time of the crash, exact geographic coordinates, vehicle type or make, and contributing factors such as distracted driving or failure to yield. The dataset also records the number of people injured or killed in the incident, which allows us to analyze collision severity and identify patterns related to safety and risk throughout New York City.
+## Question Desciption and Purpose
+###Research Question 1:
+What are the most common causes of motor vehicle collisions in New York City?
+
+Why we chose this question:
+Understanding the leading causes of motor car collisions is vital for improving public safety and increasing the amount of prevented crashes. Identifying which factors like distracted driving, failure to yield, or speeding can contribute more to accidents helps guide policy decisions, traffic enforcement priorities, and public awareness. This has social importance (protecting pedestrians, cyclists, and drivers), economic implications (reducing costs from property damage and medical expenses), and public planning value (supporting data-driven street design decisions).
+This ties into the dataset through a variable titled “Contributing Factor,” which lists the cause of the crash for each vehicle involved. By analyzing the frequency of these factors, we can determine the most common causes of collisions across the city.
+
+###Research Question 2:
+How do fatality rates vary based on different conditions, such as time of day and location within New York City?
+
+Why we chose this question:
+This question matters because it examines when and where collisions are most severe, not just how often they happen. Analyzing this data allows for the city to figure out what factors are the most dangerous and provide corrective action. They can increase the safety of the city and focus efforts in the correct spots to lower the fatality rate of collisions in the city. The findings can influence public safety initiatives, emergency response planning, and transportation policy.The dataset contains variables for crash time, borough, geographic coordinates, and the number of persons injured or killed. By comparing these fields, we can identify patterns in fatal collisions based on both time and location.
