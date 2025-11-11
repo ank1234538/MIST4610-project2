@@ -1,4 +1,4 @@
-# MIST4610Project2
+# MIST4610 Project 2
 ## Team name and Members
 Group 6:
 1) Aubrey Katzenmiller, [@aubreyk308](https://github.com/aubreyk308) 811343956
