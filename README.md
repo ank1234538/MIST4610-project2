@@ -30,10 +30,13 @@ QUESTION 1: What are the most common causes of motor vehicle collisions in New Y
 
 <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/cb1424ab-a833-4453-acc1-29cb83752e70" />
 <img width="929" height="412" alt="PNG image" src="https://github.com/user-attachments/assets/a7335e1d-7ee1-4df9-bd9c-81258cdecd58" />
-As can be seen in the chart, most NYC collisions are caused by driver inattention, which appears far more often than any other factor in the dataset. There is also a large number of “Unspecified” entries, which suggests that many reports lack clear cause information, limiting the accuracy of analysis. Other common causes include things like following too closely or failing to yield, which help reflect typical issues in the cities dense traffic environment. Overall, the data implies that reducing distracted driving and improving reporting quality would have the biggest impact on lowering collisions.
+
+When looking at the chart, we are able to see that most NYC collisions are caused by driver inattention, which appears far more often than any other factor in the dataset. There is also a large number of “Unspecified” entries, which suggests that many reports lack clear cause information, limiting the accuracy of analysis. Other common causes include things like following too closely or failing to yield, which help reflect typical issues in the cities dense traffic environment. Overall, the data implies that reducing distracted driving and improving reporting quality would have the biggest impact on lowering collisions.
 
 <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/08ad4f35-68e3-4b55-bbc5-65cbc99b208a" />
 <img width="929" height="412" alt="PNG image" src="https://github.com/user-attachments/assets/67373c61-b29f-4ced-a1c2-859713a8c266" />
+
+The visualization shows which vehicle types are most frequently involved in NYC collisions, with sedans and pickup trucks standing out compared to bikes, buses, and box trucks. This pattern makes sense given that sedans and pickups make up a large share of vehicles on NYC roads. Bikes and buses show far fewer collisions, likely because they operate in more regulated or protected traffic spaces. Overall, the data suggests that safety interventions aimed at passenger vehicles would have the greatest impact on reducing total crashes.
 
 
 
