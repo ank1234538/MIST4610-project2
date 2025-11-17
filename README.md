@@ -23,3 +23,5 @@ This question matters because it examines when and where collisions are most sev
 Only minor data preparation was needed for our analysis. We filtered out rows with missing values in key fields such as crash time, location, and contributing factor so that our results were based on complete records. We then grouped the remaining data by categories such as time of day and borough, and created simple summaries and counts to identify trends. No major modifications were made to the dataset; we only organized and cleaned it to make the analysis clearer.
 ## Data Analysis and Results
 <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/cb1424ab-a833-4453-acc1-29cb83752e70" />
+<img width="929" height="412" alt="PNG image" src="https://github.com/user-attachments/assets/a7335e1d-7ee1-4df9-bd9c-81258cdecd58" />
+
