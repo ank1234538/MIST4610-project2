@@ -28,15 +28,29 @@ Only minor data preparation was needed for our analysis. We filtered out rows wi
 QUESTION 1: What are the most common causes of motor vehicle collisions in New York City?
 
 
-<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/cb1424ab-a833-4453-acc1-29cb83752e70" />
-<img width="929" height="412" alt="PNG image" src="https://github.com/user-attachments/assets/a7335e1d-7ee1-4df9-bd9c-81258cdecd58" />
+<img width="700" height="310" alt="image" src="https://github.com/user-attachments/assets/cb1424ab-a833-4453-acc1-29cb83752e70" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/a7335e1d-7ee1-4df9-bd9c-81258cdecd58" />
 
 When looking at the chart, we are able to see that most NYC collisions are caused by driver inattention, which appears far more often than any other factor in the dataset. There is also a large number of “Unspecified” entries, which suggests that many reports lack clear cause information, limiting the accuracy of analysis. Other common causes include things like following too closely or failing to yield, which help reflect typical issues in the cities dense traffic environment. Overall, the data implies that reducing distracted driving and improving reporting quality would have the biggest impact on lowering collisions.
 
-<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/08ad4f35-68e3-4b55-bbc5-65cbc99b208a" />
-<img width="929" height="412" alt="PNG image" src="https://github.com/user-attachments/assets/67373c61-b29f-4ced-a1c2-859713a8c266" />
+<img width="700" height="310" alt="image" src="https://github.com/user-attachments/assets/08ad4f35-68e3-4b55-bbc5-65cbc99b208a" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/67373c61-b29f-4ced-a1c2-859713a8c266" />
 
 The visualization shows which vehicle types are most frequently involved in NYC collisions, with sedans and pickup trucks standing out compared to bikes, buses, and box trucks. This pattern makes sense given that sedans and pickups make up a large share of vehicles on NYC roads. Bikes and buses show far fewer collisions, likely because they operate in more regulated or protected traffic spaces. Overall, the data suggests that safety interventions aimed at passenger vehicles would have the greatest impact on reducing total crashes.
+
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/8f769d1c-8f1c-44b7-8ea2-26e9623d0d40" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/9ad9b7c9-a61b-4799-8acd-795afef5d8b2" />
+
+This metric shows the total number of reported vehicle collisions in NYC, which exceeds 1,048,000 incidents in the dataset. This high number reflects how frequent crashes are in a dense, high traffic city with heavy pedestrian, bike, and vehicle activity. It provides important context for the rest of the dashboard by showing the overall scale of the problem. The total collision count highlights the need for strong citywide safety measures and the importance of consistent data reporting.
+
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/23bd495c-3474-46ef-a301-c590f7eca1d9" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/224533b9-edae-415b-a3a1-41c98cc26848" />
+
+Brooklyn and Queens report the highest number of collisions, which fits their large populations and heavy traffic volumes. Manhattan also shows a high count, likely due to dense intersections and constant commercial activity. The Bronx falls in the middle, while Staten Island has the fewest collisions, reflecting its lower density and slower traffic flow. Overall, the data helps show a clear relationship between borough size, traffic intensity, and total collisions.
+
+
+
+
 
 
 
