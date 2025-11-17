@@ -63,5 +63,26 @@ QUESTION 2: How do fatality rates vary based on different conditions, such as ti
 
 The scatter plot shows that most NYC collisions result in injuries, but that very few lead to fatalities, even when the number of injured people is high. Fatalities remain relatively rare events and cluster at low values even when injuries exceed 100+. Overall, this suggests that while severe crashes do occur, NYC’s fatality rate stays low compared to the overall volume of injury related collisions nationwide. This is likely due to the low speed driving styles in the city.
 
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/0e07d017-5abe-4053-9dff-139932ebf947" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/6b743d9b-47ac-4604-a209-6a2a015816c2" />
+
+This metric shows the total number of people injured or killed in NYC collisions, which exceeds 391,000 victims in the dataset. The number highlights how widespread collisional harm is, even though fatalities themselves remain relatively rare. It provides important context for the rest of the analysis by showing the human impact behind the crash numbers. Each one of those victims, over 391,000, are people that were involved and injured in a crash in some way. Overall, the scale of injuries emphasizes the need for targeted safety measures, particularly in high risk areas and times of day.
+
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/9f2c9333-cea1-48c2-a975-353544943912" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/323d9e27-0a3e-4a42-8b03-6a9cac11660a" />
+
+When looking at the data, we are able to see that SUVs and Sedans cause a majority of the motor vehicle fatalities in the city. Motorcycles also appear prominently, reflecting their higher vulnerability in collisions. Larger commercial vehicles like box trucks and buses contribute to fewer fatalities, likely because they are operated by trained drivers and have stricter regulations. Overall, the results suggest that passenger vehicles and motorcycles are involved in most fatal incidents, highlighting key areas for targeted safety interventions.
+
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/f0c46c51-d651-428d-ab7b-b681cc4365fe" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/fb5a49cd-98e8-49b0-be56-a772dd52fa3c" />
+
+As can be seen above, fatal collisions are not evenly distributed across NYC ZIP codes, with some areas experiencing significantly more deaths than others. A few ZIP codes stand out with much higher fatality counts, which often corresponds to major roads, highway access points, or higher traffic neighborhoods. Other ZIP codes show much lower numbers, likely due to quieter residential streets and less vehicle volume. Overall, this highlights how location plays a major role in fatal crash risk and suggests that certain ZIP codes may need targeted safety measures or enforcement.
+
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/c53ac3dd-c3bd-4e34-96f1-70d7a137d112" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/05275d54-712a-4264-bffc-a4c4cad6ae1b" />
+
+The chart above helps show that pedestrians and motorists make up the majority of traffic fatalities in NYC, with pedestrians slightly higher overall. Cyclist deaths are much lower in comparison, but still represent a significant safety concern given NYC’s growing bike usage. The high pedestrian fatality count reflects the city’s dense streets, heavy foot traffic, and frequent pedestrian and vehicle interactions. Overall, the data highlights pedestrians and motorists as the most at risk groups, suggesting these areas need the strongest safety interventions.
+
+Overall, the fatality data shows that traffic deaths in NYC vary widely depending on location, vehicle type, and who is involved in the crash. Fatalities cluster heavily in certain ZIP codes and along major traffic corridors, indicating that some neighborhoods face much higher risk than others. Sedans, SUVs, and motorcycles appear most often in fatal crashes, while pedestrians and motorists make up the largest share of victims. Even though injuries are common, fatalities remain relatively rare and usually occur in the most severe or higher speed incidents. Altogether, the patterns suggest that targeted safety measures in higher risk areas and for vulnerable road users could significantly reduce fatal outcomes.
 
 
