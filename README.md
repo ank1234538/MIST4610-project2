@@ -56,5 +56,12 @@ Collisions in NYC peak on Fridays, with Thursday and Tuesday close behind. Weekd
 Overall, the NYC collision data shows that crashes are heavily driven by human behavior, with driver inattention being the leading cause across the city. Collisions are most common in higher traffic situations, with more collisions happening in the busier days and boroughs. Sedans and other passenger vehicles account for most crashes, which fits the makeup of NYC’s vehicle population. With more than one million total reported collisions in the dataset, the scale of the issue is significant. Together, these trends suggest that reducing distracted driving, improving traffic flow, and targeting high population areas would have the greatest impact on improving safety.
 
 
+QUESTION 2: How do fatality rates vary based on different conditions, such as time of day and location within New York City?
+
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/b0c44a32-39f7-4f2a-aa84-8805449c6acd" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/761d75f8-3ea9-4aab-b38a-be720dab157c" />
+
+The scatter plot shows that most NYC collisions result in injuries, but that very few lead to fatalities, even when the number of injured people is high. Fatalities remain relatively rare events and cluster at low values even when injuries exceed 100+. Overall, this suggests that while severe crashes do occur, NYC’s fatality rate stays low compared to the overall volume of injury related collisions nationwide. This is likely due to the low speed driving styles in the city.
+
 
 
