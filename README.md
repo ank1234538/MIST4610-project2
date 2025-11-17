@@ -19,9 +19,21 @@ How do fatality rates vary based on different conditions, such as time of day an
 
 Why we chose this question:
 This question matters because it examines when and where collisions are most severe, not just how often they happen. Analyzing this data allows for the city to figure out what factors are the most dangerous and provide corrective action. They can increase the safety of the city and focus efforts in the correct spots to lower the fatality rate of collisions in the city. The findings can influence public safety initiatives, emergency response planning, and transportation policy.The dataset contains variables for crash time, borough, geographic coordinates, and the number of persons injured or killed. By comparing these fields, we can identify patterns in fatal collisions based on both time and location.
+
 ## Modifications to the Data
+
 Only minor data preparation was needed for our analysis. We filtered out rows with missing values in key fields such as crash time, location, and contributing factor so that our results were based on complete records. We then grouped the remaining data by categories such as time of day and borough, and created simple summaries and counts to identify trends. No major modifications were made to the dataset; we only organized and cleaned it to make the analysis clearer.
 ## Data Analysis and Results
+
+QUESTION 1: What are the most common causes of motor vehicle collisions in New York City?
+
+
 <img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/cb1424ab-a833-4453-acc1-29cb83752e70" />
 <img width="929" height="412" alt="PNG image" src="https://github.com/user-attachments/assets/a7335e1d-7ee1-4df9-bd9c-81258cdecd58" />
+As can be seen in the chart, most NYC collisions are caused by driver inattention, which appears far more often than any other factor in the dataset. There is also a large number of “Unspecified” entries, which suggests that many reports lack clear cause information, limiting the accuracy of analysis. Other common causes include things like following too closely or failing to yield, which help reflect typical issues in the cities dense traffic environment. Overall, the data implies that reducing distracted driving and improving reporting quality would have the biggest impact on lowering collisions.
+
+<img width="929" height="412" alt="image" src="https://github.com/user-attachments/assets/08ad4f35-68e3-4b55-bbc5-65cbc99b208a" />
+<img width="929" height="412" alt="PNG image" src="https://github.com/user-attachments/assets/67373c61-b29f-4ced-a1c2-859713a8c266" />
+
+
 
