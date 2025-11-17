@@ -53,7 +53,7 @@ Brooklyn and Queens report the highest number of collisions, which fits their la
 
 Collisions in NYC peak on Fridays, with Thursday and Tuesday close behind. Weekdays in general have more crashes than weekends, likely due to heavier commuting traffic and more cars on the road. Saturday shows a moderate drop, and Sunday has the fewest collisions overall. This pattern suggests that weekday congestion and routine work travel contribute heavily to NYC crash volume.
 
-
+Overall, the NYC collision data shows that crashes are heavily driven by human behavior, with driver inattention being the leading cause across the city. Collisions are most common in higher traffic situations, with more collisions happening in the busier days and boroughs. Sedans and other passenger vehicles account for most crashes, which fits the makeup of NYC’s vehicle population. With more than one million total reported collisions in the dataset, the scale of the issue is significant. Together, these trends suggest that reducing distracted driving, improving traffic flow, and targeting high population areas would have the greatest impact on improving safety.
 
 
 
