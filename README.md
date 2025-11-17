@@ -48,6 +48,10 @@ This metric shows the total number of reported vehicle collisions in NYC, which 
 
 Brooklyn and Queens report the highest number of collisions, which fits their large populations and heavy traffic volumes. Manhattan also shows a high count, likely due to dense intersections and constant commercial activity. The Bronx falls in the middle, while Staten Island has the fewest collisions, reflecting its lower density and slower traffic flow. Overall, the data helps show a clear relationship between borough size, traffic intensity, and total collisions.
 
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/a756bfbf-81b2-41b4-a352-8e0a5d333561" />
+<img width="700" height="310" alt="PNG image" src="https://github.com/user-attachments/assets/36b70294-d922-4ef1-b79f-f233b713a8f0" />
+
+Collisions in NYC peak on Fridays, with Thursday and Tuesday close behind. Weekdays in general have more crashes than weekends, likely due to heavier commuting traffic and more cars on the road. Saturday shows a moderate drop, and Sunday has the fewest collisions overall. This pattern suggests that weekday congestion and routine work travel contribute heavily to NYC crash volume.
 
 
 
