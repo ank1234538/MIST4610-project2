@@ -22,7 +22,7 @@ This question matters because it examines when and where collisions are most sev
 
 ## Modifications to the Data
 
-Only minor data preparation was needed for our analysis. We filtered out rows with missing values in key fields such as crash time, location, and contributing factor so that our results were based on complete records. We then grouped the remaining data by categories such as time of day and borough, and created simple summaries and counts to identify trends. No major modifications were made to the dataset; we only organized and cleaned it to make the analysis clearer.
+Only minor data preparation was needed for our analysis. We filtered out rows with missing values in key fields such as crash time, location, and contributing factors so that our results were based on complete records. We then grouped the remaining data by categories such as time of day and borough, and created simple summaries and counts to identify trends. No major modifications were made to the dataset; we only organized and cleaned it to make the analysis clearer.
 ## Data Analysis and Results
 
 QUESTION 1: What are the most common causes of motor vehicle collisions in New York City?
